@@ -1,4 +1,4 @@
-## Hi, I'm Chaithana 👋
+## Hi, I'm Chaitana 👋
 
 **Final-year Computer Science & Engineering Student** passionate about building
 practical software solutions and exploring **Software Development, Data Analytics,
