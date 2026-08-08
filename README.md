@@ -52,8 +52,8 @@ A portfolio website showcasing my skills, projects and development journey.
 
 ## Connect With Me
 
-- 💼 **LinkedIn:** [My LinkedIn](linkedin.com/in/chaitana-a-3b870b330)
-- 🌐 **Portfolio:** [My Portfolio](portfolio1-krfg.onrender.com)
+- 💼 **LinkedIn:** [My LinkedIn](https://linkedin.com/in/chaitana-a-3b870b330)
+- 🌐 **Portfolio:** [My Portfolio](https://portfolio1-krfg.onrender.com)
 - 📧 **Email:** achaithana35@gmail.com
 
 ---
