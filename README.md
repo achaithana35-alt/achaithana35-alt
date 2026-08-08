@@ -1,65 +1,70 @@
-Hi 👋, I'm Chaitana
-🎓 Final-Year Computer Science Engineering Student
+# Hi, I'm Chaithana 👋
 
-I'm a passionate Computer Science student interested in software development,
-web development, data analytics and machine learning.
+**Final-year Computer Science & Engineering student** passionate about building
+practical software solutions and exploring **Software Development, Data Analytics,
+and Machine Learning**.
 
-I enjoy building projects, learning new technologies and improving my
-problem-solving skills.
-
----
-
-## 🚀 About Me
-
-- 🎓 B.E. Computer Science & Engineering
-- 💻 Interested in Software Development
-- 🌱 Currently learning Flask, Django and Machine Learning
-- 📊 Interested in Data Analytics
-- 🔭 Working on AI-based projects
-- 💡 Love learning by building projects
+I enjoy learning by building projects, solving problems, and continuously
+improving my technical skills.
 
 ---
 
-## 🛠️ Technical Skills
+## What I Do
 
-### Programming Languages
-Java • Python • SQL
-
-### Web Development
-HTML • CSS • JavaScript • Flask • Django
-
-### Data & AI
-Python • Pandas • NumPy • Scikit-learn • Machine Learning
-
-### Databases
-MySQL • MongoDB
-
-### Tools
-Git • GitHub • VS Code
+- Build practical projects and applications
+- Focus on clean, readable and maintainable code
+- Learn new technologies through hands-on development
+- Explore AI, Machine Learning and Data Analytics
 
 ---
 
-## 📌 Featured Projects
+## Technical Skills
 
-### 🤖 PathPilot AI
-AI-powered career guidance system that provides personalized
-career recommendations based on skills, interests and personality.
-
-### 🌾 Farm Management System
-A web-based application developed using Flask and MySQL
-to manage farming-related activities.
-
-### ✅ Task Management Application
-A Flask-based application for creating and managing tasks.
+| **Category** | **Skills** |
+|---|---|
+| **Programming** | Java, Python, SQL |
+| **Web Development** | HTML, CSS, JavaScript, Flask, Django |
+| **Data & ML** | Pandas, NumPy, Scikit-learn, XGBoost |
+| **Databases** | MySQL, MongoDB |
+| **Tools** | Git, GitHub, VS Code, Jupyter |
 
 ---
 
-## 📫 Connect With Me
+## Some Projects
 
-- 💼 LinkedIn: [My LinkedIn](linkedin.com/in/chaitana-a-3b870b330)
-- 🌐 Portfolio: [My Portfolio](portfolio1-krfg.onrender.com )
-- 📧 Email: achaithana35@gmail.com
+### PathPilot AI
+AI-powered career guidance system that provides personalized career
+recommendations based on skills, interests and personality.
+
+**Technologies:** Python, XGBoost, Scikit-learn, Flask, MongoDB
+
+### Farm Management System
+Web-based application for managing farming-related activities.
+
+**Technologies:** Flask, MySQL
+
+### Personal Portfolio
+A portfolio website showcasing my skills, projects and development journey.
+
+**Technologies:** Flask, HTML, CSS, JavaScript
 
 ---
 
-⭐ Feel free to explore my repositories and projects!
+## What You Can Expect From Me
+
+- Strong willingness to learn
+- Hands-on problem-solving approach
+- Consistent improvement through projects
+- Adaptability to new technologies
+
+---
+
+## Connect With Me
+
+- 💼 **LinkedIn:** [My LinkedIn](YOUR_LINKEDIN_LINK)
+- 🌐 **Portfolio:** [My Portfolio](YOUR_PORTFOLIO_LINK)
+- 📧 **Email:** YOUR_EMAIL
+
+---
+
+*Learning. Building. Improving. 🚀*
