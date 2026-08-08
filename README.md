@@ -9,15 +9,6 @@ improving my technical skills.
 
 ---
 
-## What I Do
-
-- Build practical projects and applications
-- Focus on clean, readable and maintainable code
-- Learn new technologies through hands-on development
-- Explore AI, Machine Learning and Data Analytics
-
----
-
 ## Technical Skills
 
 | **Category** | **Skills** |
