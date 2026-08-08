@@ -1,6 +1,6 @@
-# Hi, I'm Chaithana 👋
+Hi, I'm Chaithana 👋
 
-**Final-year Computer Science & Engineering student** passionate about building
+**Final-year Computer Science & Engineering Student** passionate about building
 practical software solutions and exploring **Software Development, Data Analytics,
 and Machine Learning**.
 
@@ -61,9 +61,9 @@ A portfolio website showcasing my skills, projects and development journey.
 
 ## Connect With Me
 
-- 💼 **LinkedIn:** [My LinkedIn](YOUR_LINKEDIN_LINK)
-- 🌐 **Portfolio:** [My Portfolio](YOUR_PORTFOLIO_LINK)
-- 📧 **Email:** YOUR_EMAIL
+- 💼 **LinkedIn:** [My LinkedIn](linkedin.com/in/chaitana-a-3b870b330)
+- 🌐 **Portfolio:** [My Portfolio](portfolio1-krfg.onrender.com)
+- 📧 **Email:** achaithana35@gmail.com
 
 ---
 
