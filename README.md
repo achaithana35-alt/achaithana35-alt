@@ -1,13 +1,13 @@
-## Hi, I'm Chaitana 👋
+# Chaitana A
 
-**Final-year Computer Science & Engineering Student** passionate about building
-practical software solutions and exploring **Software Development, Data Analytics,
-and Machine Learning**.
+### Computer Science & Engineering Student | Python | Java | Machine Learning | Full-Stack Development
 
-I enjoy learning by building projects, solving problems, and continuously
-improving my technical skills.
+Building practical software solutions with Python, Java, Machine Learning, Flask, MongoDB, and SQL.
 
----
+[LinkedIn](https://www.linkedin.com/in/chaitana-a-3b870b330/) •
+[GitHub](https://github.com/achaithana35-alt) •
+[Portfolio](https://portfolio1-krfg.onrender.com/) •
+[Email](mailto:achaithana35@gmail.com)
 
 ## Technical Skills
 
