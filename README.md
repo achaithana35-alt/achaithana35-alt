@@ -8,9 +8,6 @@ Computer Science & Engineering Student | Python | Java | Machine Learning
   <a href="https://www.linkedin.com/in/chaitana-a-3b870b330/">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
   </a>
-  <a href="https://github.com/achaithana35-alt">
-    <img src="https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github" />
-  </a>
   <a href="mailto:achaithana35@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail" />
   </a>
