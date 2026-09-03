@@ -1,3 +1,9 @@
+<h1 align="center">Chaitana A</h1>
+
+<h3 align="center">
+Computer Science & Engineering Student | Python | Java | Machine Learning
+</h3>
+
 <p align="center">
   <a href="YOUR_LINKEDIN_URL">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
@@ -12,6 +18,16 @@
     <img src="https://img.shields.io/badge/Resume-View-green?style=for-the-badge" />
   </a>
 </p>
+
+---
+
+## 🎯 Career Objective
+
+Aspiring software developer with a strong foundation in Python, Java, SQL,
+Machine Learning, and web development. Seeking an opportunity to apply my
+technical knowledge and problem-solving skills to build scalable, innovative,
+and real-world software solutions while continuously learning and growing
+professionally.
 ## Technical Skills
 
 | **Category** | **Skills** |
