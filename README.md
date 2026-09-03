@@ -14,7 +14,7 @@ Computer Science & Engineering Student | Python | Java | Machine Learning
   <a href="mailto:achaithana35@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail" />
   </a>
-  <a href="portfolio1-krfg.onrender.com ">
+  <a href="portfolio1-krfg.onrender.com">
     <img src="https://img.shields.io/badge/Portfolio-Visit-green?style=for-the-badge&logo=google-chrome" />
   </a>
 </p>
