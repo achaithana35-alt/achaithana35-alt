@@ -5,19 +5,29 @@ Computer Science & Engineering Student | Python | Java | Machine Learning
 </h3>
 
 <p align="center">
-  <a href="YOUR_LINKEDIN_URL">
+  <a href="https://www.linkedin.com/in/chaitana-a-3b870b330/">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
   </a>
   <a href="https://github.com/achaithana35-alt">
     <img src="https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github" />
   </a>
-  <a href="mailto:YOUR_EMAIL">
+  <a href="mailto:achaithana35@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail" />
   </a>
-  <a href="YOUR_RESUME_URL">
-    <img src="https://img.shields.io/badge/Resume-View-green?style=for-the-badge" />
+  <a href="portfolio1-krfg.onrender.com ">
+    <img src="https://img.shields.io/badge/Portfolio-Visit-green?style=for-the-badge&logo=google-chrome" />
   </a>
 </p>
+
+---
+
+## 🎯 Career Objective
+
+Aspiring software developer with a strong foundation in Python, Java, SQL,
+Machine Learning, and web development. Seeking an opportunity to apply my
+technical knowledge and problem-solving skills to build scalable, innovative,
+and real-world software solutions while continuously learning and growing
+professionally.
 
 ---
 
