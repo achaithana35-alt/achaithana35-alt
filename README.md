@@ -11,9 +11,6 @@ Computer Science & Engineering Student | Python | Java | Machine Learning
   <a href="mailto:achaithana35@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail" />
   </a>
-  <a href="portfolio1-krfg.onrender.com">
-    <img src="https://img.shields.io/badge/Portfolio-Visit-green?style=for-the-badge&logo=google-chrome" />
-  </a>
 </p>
 
 ---
@@ -76,11 +73,8 @@ A portfolio website showcasing my skills, projects and development journey.
 
 ---
 
-## Connect With Me
-
-- 💼 **LinkedIn:** [My LinkedIn](https://linkedin.com/in/chaitana-a-3b870b330)
 - 🌐 **Portfolio:** [My Portfolio](https://portfolio1-krfg.onrender.com)
-- 📧 **Email:** achaithana35@gmail.com
+
 
 ---
 
